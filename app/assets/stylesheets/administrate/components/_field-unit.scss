@@ -10,6 +10,7 @@
 .field-unit__label {
   @include span-columns(2 of 12);
   text-align: right;
+  vertical-align: top;
 }
 
 .field-unit__field {
