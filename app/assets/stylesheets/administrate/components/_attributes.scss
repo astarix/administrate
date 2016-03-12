@@ -7,8 +7,10 @@
 }
 
 .preserve-whitespace {
-  white-space: pre;
+  white-space: pre-wrap;
   word-wrap: break-word;
+  display: block;
+  width: 560px;
 }
 
 .attribute-data {
